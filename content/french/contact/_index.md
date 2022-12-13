@@ -2,7 +2,7 @@
 title: Contact
 description: this is a meta description
 office:
-  title: XTREME-ELECTRA
+  title: XTREM-ELECTRA
   mobile: 07 85 55 55 72
   email: 'xtremelectra@gmail.com '
   location:  5 Rue de la Croix Blanche, 31700 Blagnac,Toulouse.
