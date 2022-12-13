@@ -1,0 +1,107 @@
+<footer>
+  <div class="container text-center">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <a href="{{ site.BaseURL | relLangURL }}" class="mb-4 d-inline-block">{{ if site.Params.logo }} <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" {{with site.Params.logo_width}}width="{{.}}"{{end}}> {{ else }} {{ .Title }} {{ end }}</a>
+          <ul class="list-inline footer-menu">
+            {{ range site.Menus.footer }}
+            <li class="list-inline-item">
+              <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
+          <p class="copyright-text">{{ site.Params.copyright | markdownify }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Modal -->
+
+<div class="modal fade  " id="demoModal"  tabindex="-1" role="dialog"
+     aria-labelledby="demoModal" aria-hidden="true">
+    <div class="modal-dialog  modal-dialog-centered " role="document">
+        <div class="modal-content">
+                    <div class=" bg-img rounded " style="background-image: url('https://www.lenbox.io/wp-content/uploads/2022/04/LOGO-LENBOX-1200X1200-Blanc-p-1.png')">
+
+                            <div class="overlay-light">
+                                <div class="text-white text-center m-h-50 d-flex justify-content-center">
+                                  <!-- align-items-center  -->
+                                    <div>
+                                        <h1 class="pt-sm-3">Payez en plusieurs fois avec</h1>
+                                        <br><br><br><br>
+                                        <p class="text-white-80"> Solution de paiement en 3, 4 et 10 fois  </p>
+                                        <a href="#" class="btn btn-cstm-light btn-cta" data-dismiss="modal" aria-label="Close" data-dismiss="modal" aria-label="Close">
+                                          Accédez au site.
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                    </div>
+
+
+        </div>
+    </div>
+</div>
+<!-- Modal Ends -->
+
+
+<!-- Snipcart public key -->
+{{ with site.Params.snipcart }}
+{{ if .enable }}
+{{ with .snipcart_api }}
+<div hidden id="snipcart" data-api-key="{{.}}" data-currency="eur"></div>
+{{ end }}
+{{ end }}
+{{ end }}
+
+<!-- JS Plugins -->
+{{ range site.Params.plugins.js}}
+<script src="{{ .link | absURL }}"></script>
+{{ end }}
+
+<!-- Main Script -->
+{{ $script := resources.Get "js/script.js" }}
+<script src="{{ $script.Permalink }}"></script>
+
+<!-- Cookie Consent by FreePrivacyPolicy.com https://www.FreePrivacyPolicy.com -->
+<script type="text/javascript" src="//www.freeprivacypolicy.com/public/cookie-consent/4.0.0/cookie-consent.js" charset="UTF-8"></script>
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({"notice_banner_type":"interstitial","consent_type":"express","palette":"light","language":"fr","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false,"website_name":"https://www.xtrem-electra.com","website_privacy_policy_url":"https://www.xtrem-electra.com/privacy-policy"});
+});
+</script>
+
+<noscript>Cookie Consent by <a href="https://www.freeprivacypolicy.com/" rel="noopener">Free Privacy Policy Generator</a></noscript>
+<!-- End Cookie Consent by FreePrivacyPolicy.com https://www.FreePrivacyPolicy.com -->
+
+
+
+
+
+<!-- Below is the link that users can use to open Preferences Center to change their preferences. Do not modify the ID parameter. Place it where appropriate, style it as needed. -->
+
+<a href="#" id="open_preferences_center">Update cookies preferences</a>
+
+<!--end content here-->
+<div id="image"></div>
+
+<!-- Main Script -->
+{{ $script := resources.Get "js/lunar.js" }}
+<script src="{{ $script.Permalink }}"></script>
+
+{{ $script := resources.Get "js/demo.js" }}
+<script src="{{ $script.Permalink }}"></script>
+
+{{ $script := resources.Get "js/popper.min.js" }}
+<script src="{{ $script.Permalink }}"></script>
+
+{{ $script := resources.Get "js/jquery.min.js" }}
+<script src="{{ $script.Permalink }}"></script>
+
+
+{{ $script := resources.Get "js/bootstrap.min.js" }}
+<script src="{{ $script.Permalink }}"></script> 

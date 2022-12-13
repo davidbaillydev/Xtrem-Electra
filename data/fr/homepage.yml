@@ -1,0 +1,157 @@
+############################# banner ############################
+banner:
+  enable: true
+  title: "BURN-E 2 Max Pensez Technologie, Faites la Différence"
+  content: "Tous nos véhicules 2 roues électriques sont sélectionnés sur un rapport de qualité, poids, puissance et autonomie des plus rigoureuses. Ceci afin de répondre à un type personnel de déplacement tant en milieu urbain qu’extra-urbain. Ainsi, il en est fini des embouteillages et du stress des véhicules thermiques polluants et onéreux. Voilà de quoi réaliser une économie réelle et significative. Un plaisir de conduite silencieuse et confortable.!" 
+  #image: "images/trot.png"
+  image: "images/home-1.png"
+  button:
+    enable: true
+    label: "Découvrez nos véhicules"
+    link: "products/"
+
+############################# Feature ############################
+features:
+  enable: true
+  title: "Prêt ! vous aurez assez d’énergie..."
+  image: "images/go.png"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+    - title: "Qualité"
+      icon: "tf-ion-levels"
+      content: "La trottinette électrique imaginée pour les riders. Plus rapide que l’éclair."
+
+      # feature item loop
+    - title: "Batterie"
+      icon: "tf-ion-battery-full"
+      content: "Une charge complète en 6 heures, encore plus rapide qui dit mieux !"
+
+      # feature item loop
+    - title: "Puissance"
+      icon: "tf-ion-flash"
+      content: "Vous apprécierez les 5 modes de vitesse, la personnalisation des modes de conduite et le réglage de la puissance de chaque moteur. "
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+    - title: "Autonomie"
+      icon: "tf-ion-clock"
+      content: " Une autonomie maximale annoncée de 150km, un trajet Toulouse - Carcassonne."
+
+      # feature item loop
+    - title: "Silencieux"
+      icon: "tf-ion-speakerphone"
+      content: " Le silence des moteurs et la souplesse de la suspension régaleront le pilote.."
+
+      # feature item loop
+    - title: "Cofortable"
+      icon: "tf-ion-steam"
+      content: "Rien de mieux qu'une suspension avec 16 niveaux de réglage, pour flotter tout le long du trajet."
+
+  
+
+############################# promo ############################
+promo:
+  enable: true
+  # image: "images/test.mp4"
+  video: "images/test.mp4"
+  title: " La Viper 2 Ou Nami Burn-E 2 Max Conçues Par Des Professionnels, A Vos Marques, Prêts ? Allez-Y ! " 
+  content:
+    "Pour vous garantir la sécurité, le système de pliage de la trottinette électrique a été repensé. Son profil conique, breveté renforce sa solidité en épousant parfaitement.  
+    <br><br>
+    En quelques secondes, vous pouvez rouler en toute sécurité. 
+    Ce mécanisme de pliage conique unique et breveté a été spécialement conçu pour pallier le manque de précision des systèmes standards, connu sur toutes les autres trottinettes électriques."
+
+############################# About Product #######################
+about_product:
+  enable: true
+  title: "Pourquoi ? Choisir Nos Trottinettes"
+  items:
+    # about product item loop
+    - image: "images/feu.png"
+      title: "Misez sur la trottinette électrique haut de gamme & Faites briller la lumière."
+      content:
+        "Celle-ci vous permettra d’utiliser les pistes cyclables nouvellement aménagées et de respecter la distanciation sociale dans vos déplacements. Faites briller la lumière autour de vous grâce aux 2000 lumens de votre feu avant et de vos bandes lumineuses latérales !"
+      button:
+        enable: false
+        label: "Vérifier les caractéristiques"
+        link: "#/"
+
+    # about product item loop
+    - image: "images/feu3.png"
+      title: "Davantage d’éco-Mobilité & Des Freins Avec Du Mordant."
+      content:
+        "Propulsés par des moteurs électriques de dernière génération, ils contribuent à protéger l’environnement. Ces engins offrent aussi une ventilation naturelle. 
+        Ne produisant aucune trace de CO2, ils concourent pareillement à la santé des conducteurs et des personnes en général. Vous bénéficiez d’un système de freinage hydraulique double piston complet avec des disques de frein de 160 mm qui permet un freinage efficace et durable dans le temps."
+      button:
+        enable: false
+        label: "Vérifier les caractéristiques"
+        link: "#/"
+
+         # about product item loop
+    - image: "images/feu4.png"
+      title: "Technologie de contrôle L'Intelligentsia."
+      content:
+        "Le contrôleur est le cerveau de votre trottinette électrique. Dotée d'une technologie de pointe, cette intelligence se compose de : <br><br>
+          ✔ 2x50a courant max. <br><br>
+          ✔ Conformité IP65 <br><br>
+          ✔ Connexions étanches"
+      button:
+        enable: false
+        label: "Vérifier les caractéristiques"
+        link: "#/"
+
+
+#################################### Products ########################
+products:
+  enable: true
+  title: "Découvrez tous nos véhicules"
+
+################################## Subscription ###################
+subscription:
+  enable: true
+  bg_image: "images/call-to-action.jpg"
+  title: "S'abonner à notre lettre d'information"
+  content: "Recevez des informations sur nos véhicules."
+  placeholder: "Votre adresse Email ici"
+
+############################## Testimonial ##########################
+testimonial:
+  enable: true
+  # bg_image: "images/paralax.jpg"
+  title: "Vos Commentaires"
+  testimonial_item:
+    # testimonial item loop
+    - name: "Arnaud Costamagna"
+      designation: "il y a 1 jour"
+      image: "images/avater.png"
+      content: "Le personnel de l'entreprise en honnête et franc Très sympathique Ils n'hésiteront a vous donnez dans conseil simple afin d'éviter de débourser des frais. je les recommandes pour l'entretien et l'achat de bon matériel"
+
+    # testimonial item loop
+    - name: "Pierrick Dal grande"
+      designation: "il y a 8 mois"
+      image: "images/avater.png"
+      content: "Super expérience, une équipe très professionnel et un excellent matériel.J'ai pu acheter un super matériel et j'ai vu dans leur magasin tout récemment ouvert une Cobra 4000W à 60% de pièces usine à Toulouse qui a fait le Tour de France en juillet 2020 4800 km en 3 semaines."
+
+    # testimonial item loop
+    - name: "Etienne Gau"
+      designation: "il y a 1 jour"
+      image: "images/avater.png"
+      content: "Un lieu sympa, un esprit différent, un SAV efficace, un accueil comme on n'en fait pas nilleurs, des prix compétitifs, de la réactivité, du matos fiable et efficace. Quand on a rencontré XTREMELECTRA, on ne va plus ailleurs III."
+
+
+
+############################# location ############################
+location:
+  enable: true
+  # image: "images/test-2.mp4"
+  video: "images/test-2.mp4"
+  title: " Balade Toulouse Visite Du Patrimoine ou de sa nature le long de la Garonne 60,00€" 
+  content:
+    "Sillonnez Toulouse à trottinette électrique et découvrez, redécouvrez le patrimoine de notre ville rose d’une autre manière : ludique, éco mobile et enrichissante ! Une visite patrimoniale de Toulouse en passant devant quelques-uns des plus beaux monuments du centre-ville. 
+    <br><br>
+    Un parcours vous sera proposé sous forme de plan. * 10 € supplémentaires pour les commandes effectuées un jour férié * Supplément 10 € par trottinette sur Toulouse et 20 € par trottinette hors zone pour la livraison des trottinettes en location."
+  
+  label: "N'attendez plus !"

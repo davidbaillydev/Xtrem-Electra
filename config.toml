@@ -1,0 +1,161 @@
+################################### Default Configuration ############################
+baseurl = "https://ExtremElectra.com"
+title = "XTREM-ELECTRA Ventes - Location et balades à trottinettes électriques ultra performantes sur Toulouse, nouvelle start-up française."
+theme = "vex-hugo"
+defaultContentLanguage = "fr"
+languageCode = "fr-fr"
+# post excert
+summarylength = "20"
+# google analytics
+googleAnalytics = "" # Ex: UA-123-45
+# disable language
+disableLanguages = ['En'] # disable language from here
+
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+#################################### Plugins ##########################################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themefisher-font/themefisher-font.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.min.css"
+[[params.plugins.css]]
+link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
+
+# custom_css = ["css/lunar.css"]
+
+# custom_css2 = ["css/demo.css"]
+
+
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
+
+custom_js = ["js/custom.js"]
+
+
+###################################### Navigation ######################################
+
+# homepage section menu
+[[menu.main]]
+name = "Accueil"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Nos Véhicules"
+url = "products/"
+weight = 2
+
+[[menu.main]]
+name = "Location"
+url = "location/"
+weight = 3
+
+
+
+[[menu.main]]
+name = "Nos clients"
+pre = "#"
+url = "testimonial"
+weight = 4
+
+[[menu.main]]
+name = "Actualités"
+url = "blog/"
+weight = 5
+
+[[menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 6
+
+# footer menu
+[[menu.footer]]
+name = "Actualités"
+url = "blog/"
+weight = 1
+
+[[menu.footer]]
+name = "Contact"
+url = "contact/"
+weight = 2
+
+[[menu.footer]]
+name = "Terms & Conditions"
+# url = "terms-conditions/"
+weight = 3
+
+[[menu.footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 4
+
+
+########################### Default parameters ##########################
+[params]
+logo = "images/logo.png"
+logo_width = "150px"
+# Meta data
+description = "BURN-E VIPER à Blagnac Pensez technologie, faites la différence Tous nos véhicules 2 roues électriques sont sélectionnés sur un rapport de qualité, poids, puissance et autonomie des plus rigoureux."
+author = "Themefisher"
+# currency
+currency = "€"
+# contact form action
+contact_form_action = "https://formsubmit.co/xtremelectra@gmail.com" # contact form works with https://formsubmit.co
+# contact_form_action = "#" # contact form works with https://formspree.io 
+
+# contact phone
+phone = "0785555572"
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format
+
+# Snipcart
+[params.snipcart]
+enable = true
+# snipcart public api key
+snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+
+# Subscription
+[params.subscription]
+# mailchimp subsciption
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"                                                           # replace this code with yours
+
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 2
+# copyright
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+
+
+################################### French language #####################################
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 1
+# copyright
+#copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Tout Droits Réservé XTREM-ELECTRA 2022 Propulsez par Lc Digitale web Agency  : https://lcdigitale.fr "

@@ -1,0 +1,72 @@
+{{ define "main" }}
+
+<section class="feature-list section">
+  <div class="container">
+    <div class="row">
+      <div class=" heading col-12 text-center mb-5 ">
+        <h2>{{.Title}}</h2>
+
+        <p>{{.Description}}</p>
+        <img class="img-fluid w-0" src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+      </div>
+
+      
+    </div>
+   
+  </div>
+  {{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ if $data.homepage.location.enable }}
+{{ with $data.homepage.location }}
+<section class="bg-orange section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 text-center mb-5 mb-lg-0">
+        <!-- <img class="img-fluid" src="{{ .image | absURL }}" alt=""> -->
+        <video class="img-fluid" controls  src="{{ .video | absURL }}" autoplay muted loop> La vidéo ne se charge pas</video>
+
+      </div>
+      <div class="col-md-6 align-self-center text-center text-md-left">
+        <div class="content">
+          <h2 class="subheading text-white font-weight-bold mb-10">{{ .title | markdownify }}</h2>
+          <p class="text-white">{{ .content | markdownify }}</p>
+           <a href="tel:{{ site.Params.phone }}" class="btn btn-main btn-main-sm">{{.label}}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+</section>
+
+ <!--  PARTNER START  -->
+ <!-- <section id="clients" class="section-padding ">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 text-center">
+        <div class=" heading col-12 text-center mb-5 ">
+          <h2>ils nous font confiance </h2>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, dignissimos?</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-3 col-sm-6 col-md-3 text-center">
+        <img src="{{ .Params.Image1 | absURL }}" alt="partner" class="img-fluid">
+      </div>
+      <div class="col-lg-3 col-sm-6 col-md-3 text-center">
+        <img src="{{ .Params.Image2 | absURL }}" alt="partner" class="img-fluid">
+      </div>
+      <div class="col-lg-3 col-sm-6 col-md-3 text-center">
+        <img src="{{ .Params.Image1 | absURL }}" alt="partner" class="img-fluid">
+      </div>
+      <div class="col-lg-3 col-sm-6 col-md-3 text-center">
+        <img src="{{ .Params.Image2 | absURL }}" alt="partner" class="img-fluid">
+      </div>
+    </div>
+  </div>
+</section> -->
+<!--  PARTNER END  -->
+{{ end }}
