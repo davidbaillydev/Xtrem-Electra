@@ -115,7 +115,7 @@ subscription:
   bg_image: "images/call-to-action.jpg"
   title: "S'abonner à notre lettre d'information"
   content: "Recevez des informations sur nos véhicules."
-  placeholder: "Votre adresse Email ici"
+  placeholder: " Laisser votre adresse Email"
 
 ############################## Testimonial ##########################
 testimonial:
