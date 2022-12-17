@@ -22,7 +22,7 @@ Possibilité de payer en plusieurs fois X4 à X10!
 Livrable en 7 jours*.
 10 euros supplémentaires pour les livraisons effectuées un jour férié
 
-⚠️[Consulter la réglementation des trottinettes électriques](https://app.forestry.io/sites/brejmxxqbsbeig/body-media//uploads/reglementation.pdf)
+⚠️[Consulter la réglementation des trottinettes électriques](/uploads/reglementation.pdf)
 
 ( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL
 
