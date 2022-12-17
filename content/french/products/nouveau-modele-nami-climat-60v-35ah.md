@@ -9,8 +9,7 @@ price = "Disponible à l’essai en vente le 1er trimestre 2023 "
 title = "Nami Klima 60V 35AH"
 
 +++
-
-⚠️[Consulter la réglementation des trottinettes électriques](https://app.forestry.io/sites/brejmxxqbsbeig/body-media//uploads/reglementation.pdf)
+⚠️[Consulter la réglementation des trottinettes électriques](/uploads/reglementation.pdf)
 
 ( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL
 
