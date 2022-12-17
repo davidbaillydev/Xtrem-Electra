@@ -48,7 +48,7 @@ Bonnes vibrations et plaisirs de conduites à tous les pilotes NAMI….
 
 Puissante et autonome, la Nami Burn E 2 Max est la trottinette électrique du moment. Parfaite pour des trajets de longue durée sur tous types de chemins, vous ne pourrez plus vous en passer.
 
-* [**DESCRIPTION **](https://funtrott.fr/accueil/1870-trottinette-electrique-nami-burn-e-2-max.html#description)
+* **DESCRIPTION **
 
   \- les nouvelles LED pour + de visibilité
   * le nouveau guidon, plus long pour + de stabilité
