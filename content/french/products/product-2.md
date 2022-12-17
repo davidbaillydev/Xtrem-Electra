@@ -7,7 +7,7 @@ images:
 - images/showcase/kugo/3.jpg
 - images/showcase/kugo/4.jpg
 - images/showcase/kugo/5.jpg
-description : Financement lenbox en 4X ou 10X"
+description: Financement lenbox en 4X ou 10X"
 price: '950.00'
 discount_price: 880.00 T.T.C.
 colors:
@@ -22,6 +22,8 @@ Possibilité de payer en plusieurs fois X4 à X10!
 Livrable en 7 jours*.
 10 euros supplémentaires pour les livraisons effectuées un jour férié
 
-( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL 
+⚠️[Consulter la réglementation des trottinettes électriques](https://app.forestry.io/sites/brejmxxqbsbeig/body-media//uploads/reglementation.pdf)
+
+( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL
 
 ![](/uploads/sans-titre-6.png)
