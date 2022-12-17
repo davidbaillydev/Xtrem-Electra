@@ -11,7 +11,7 @@ title = "Nami Blast 60V 28AH"
 +++
 ### Essai et livraison début janvier
 
-⚠️[Consulter la réglementation des trottinettes électriques](https://app.forestry.io/sites/brejmxxqbsbeig/body-media//uploads/reglementation.pdf)
+⚠️[Consulter la réglementation des trottinettes électriques](/uploads/reglementation.pdf)
 
 ( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL
 
