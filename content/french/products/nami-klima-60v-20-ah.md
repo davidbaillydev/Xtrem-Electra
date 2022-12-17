@@ -11,7 +11,7 @@ title = " Nami Klima 60V 20AH"
 +++
 ### Essai et livraison courant 1er trimestre  2023
 
-⚠️[Consulter la réglementation des trottinettes électriques](https://app.forestry.io/sites/brejmxxqbsbeig/body-media//uploads/reglementation.pdf)
+⚠️[Consulter la réglementation des trottinettes électriques](/uploads/reglementation.pdf)
 
 ( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL
 
