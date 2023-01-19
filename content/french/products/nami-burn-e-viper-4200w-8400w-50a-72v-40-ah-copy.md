@@ -9,6 +9,8 @@ price = "3795 T.T.C."
 title = "Nami Blast Max 60V  35AH "
 
 +++
-( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL 
+( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL
+
+⚠️[Consulter la réglementation des trottinettes électriques](/uploads/reglementation.pdf)
 
 ![](/uploads/sans-titre-6.png)

@@ -11,6 +11,8 @@ title = "Nami Blast 60V 28AH"
 +++
 ### Essai et livraison début janvier
 
-( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL 
+⚠️[Consulter la réglementation des trottinettes électriques](/uploads/reglementation.pdf)
+
+( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL
 
 ![](/uploads/sans-titre-6.png)
