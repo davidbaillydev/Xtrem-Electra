@@ -8,7 +8,7 @@ images:
 - images/showcase/nami/img4.png
 - images/showcase/nami/img5.png
 - images/showcase/nami/img6.png
-description: Financement lenbox en 4X ou 10X"
+description: Financement ALMA en 3X ou 4X"
 price: '5,450.00'
 discount_price: 4,950.00 T.T.C.
 colors:
@@ -58,6 +58,6 @@ Puissante et autonome, la Nami Burn E 2 Max est la trottinette électrique du mo
 
 ⚠️[Consulter la réglementation des trottinettes électriques](/uploads/reglementation.pdf)
 
-( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL
+( PAIEMENTS PAR CRÉDIT ALMA EN X3 ou X4 ) EN BOUTIQUE OU PAR MAIL
 
 ![](/uploads/sans-titre-6.png)
