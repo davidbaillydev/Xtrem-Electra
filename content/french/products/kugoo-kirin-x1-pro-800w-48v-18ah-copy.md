@@ -16,6 +16,6 @@ Prix spécial Noël🎁🎄, super vélo électrique performant de très bonne q
 
   ⚠️[Consulter la réglementation des trottinettes électriques](/uploads/reglementation.pdf)
 
-( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL
+( PAIEMENTS PAR CRÉDIT ALMA EN X3 ou X4 ) EN BOUTIQUE OU PAR MAIL
 
 ![](/uploads/sans-titre-6.png)
