@@ -2,7 +2,7 @@
 button_link = "#"
 colors = []
 date = 2019-10-17T05:17:16Z
-description = "Financement Alma en 4X ou 10X"
+description = "Financement Alma en 3X ou 4X"
 discount_price = "995 T.T.C."
 images = ["/uploads/v1.png", "/uploads/v1.png", "/uploads/v2.png", "/uploads/v3.png", "/uploads/v4.png", "/uploads/v5.png"]
 price = "1250€"
