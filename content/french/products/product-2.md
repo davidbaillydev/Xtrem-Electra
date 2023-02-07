@@ -1,6 +1,6 @@
 ---
 title: 'Kugoo Kirin X1 Pro 800W 48V 18AH '
-date: 2019-10-17T05:17:16.000+00:00
+date: 2019-10-17T05:02:00+00:00
 images:
 - images/showcase/kugo/1.jpg
 - images/showcase/kugo/2.jpg
