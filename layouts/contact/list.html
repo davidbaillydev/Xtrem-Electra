@@ -12,8 +12,17 @@
               {{ . }}</a></li>{{ end }}
           {{with .email}} <li class="mb-3"><a href="mailto:{{ . }}"><i class="tf-ion-email mr-2"></i>{{ . }}</a></li>
           {{end }}
+        
+          
           {{with .location }} <li class="mb-3"><i class="tf-ion-ios-location mr-2"></i>{{ . }}
           </li>{{ end }}
+          
+          {{with .play }} <li class="mb-3"><a href="https://youtube.com/@xtremelectra4963" target="_blank"><i class="fa fa-youtube-play mr-2"></i> {{ . }} </a>
+            {{ end }}
+          {{with .social }} <li class="mb-3"><a href="https://www.instagram.com/xtremelectratrott/" target="_blank"><i class="fa fa-instagram mr-2"></i> {{ . }} </a>
+            {{ end }}
+            {{with .net }} <li class="mb-3"><a href="https://www.facebook.com/profile.php?id=100075739058857" target="_blank"><i class="fa fa-facebook-f mr-2"></i> {{ . }} </a>
+              {{ end }}
         </ul>
       </div>
       {{ end }}
