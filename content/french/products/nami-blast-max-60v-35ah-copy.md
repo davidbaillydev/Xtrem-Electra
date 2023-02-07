@@ -37,6 +37,10 @@ Résumé des meilleures caractéristiques:
 
 \- Suspensions: hydraulique 165mm (16 niveaux de réglages).
 
+![](/uploads/blast-1.jpg)
+
+![](/uploads/blast-2.jpg)
+
 ⚠️[Consulter la réglementation des trottinettes électriques](/uploads/reglementation.pdf)
 
 ( PAIEMENTS PAR CRÉDIT ALMA EN X3 ou X4 ) EN BOUTIQUE OU PAR MAIL
