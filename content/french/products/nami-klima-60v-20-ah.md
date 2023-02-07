@@ -1,6 +1,6 @@
 +++
 button_link = "#"
-colors = ["Noir", "Blanc", "Gris"]
+colors = ["Noir"]
 date = 2019-10-17T05:04:00Z
 description = "Financement ALMA en 3X ou 4X"
 discount_price = ""
