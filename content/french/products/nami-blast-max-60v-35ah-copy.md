@@ -4,7 +4,7 @@ colors = ["Noir"]
 date = 2019-10-17T05:19:00Z
 description = "Financement ALMA en 3X ou 4X"
 discount_price = ""
-images = ["/uploads/nami1.png", "/uploads/nami-1.png", "/uploads/nami-4.png", "/uploads/nami-5.png"]
+images = ["/uploads/nami1.png", "/uploads/nami-1.png", "/uploads/nami-4.png", "/uploads/nami-5.png", "/uploads/blast-1.jpg", "/uploads/blast-2.jpg", "/uploads/blast-3.jpg"]
 price = "3395 T.T.C."
 title = "Nami Blast 60V 28AH"
 
