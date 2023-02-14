@@ -9,8 +9,6 @@ price = "3795 T.T.C."
 title = "Nami Blast Max 60V  35AH "
 
 +++
-# Nami Blast Max 60V  35AH
-
 Nous étions nombreux à attendre les derniers modèles de la marque Nami Electric, voilà alors la Nami Blast ! La TEAM XTREMELECTRA est heureuse de vous proposer ce nouveau modèle innovant.
 
 Ce modèle reste fidèle à la marque avec sa qualité haut de gamme et son style moderne. Elle saura montrer son dynamisme avec son accélération spectaculaire.
