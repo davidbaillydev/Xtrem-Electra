@@ -1,5 +1,5 @@
 ---
-title: Nami Burn-E 2 Max 8400W 72V 40AH
+title: Nami Burn-E 3 Max 8400W 72V 40AH
 date: 2019-10-17T05:42:16.000+00:00
 images:
 - images/showcase/nami/img1.png
@@ -16,13 +16,13 @@ colors:
 button_link: "#"
 
 ---
-XTREM-ELECTRA présente la toute dernière génération de trottinette électrique Nami Burn-E dotée de 2 moteurs d’une puissance de 4200W en crête, soit une puissance combinée de 8400W en pic.
+XTREM-ELECTRA présente la toute dernière génération de trottinette électrique Nami Burn-E 3 Max dotée de 2 moteurs d’une puissance de 4200W en crête, soit une puissance combinée de 8400W en pic.
 
 2 contrôleurs sin wave (onde sinusoïdale) de 50A / 72V viennent contrôler le tout.
 
 Cette conception permet à cette Nami de délivrer un couple incroyable, et une vitesse maximale sur circuit privé dépassant les 100 km/h !
 
-Côté autonomie la Nami Burn-E est équipée d’une batterie 72V 40Ah, composée de cellules LG/Panasonic/Samsung.
+Côté autonomie la Nami Burn-E 3 Max est équipée d’une batterie 72V 40Ah, composée de cellules LG/Panasonic/Samsung.
 
 L’autonomie maximale annoncée par le constructeur est de 150km, mais nous pouvons raisonnablement nous baser sur une autonomie de 120km dans le cadre d’une utilisation normale.
 
