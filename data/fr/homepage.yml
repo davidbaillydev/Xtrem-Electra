@@ -1,7 +1,7 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "BURN-E 2 Max Pensez Technologie, Faites la Différence"
+  title: "BURN-E 3 Max Pensez Technologie, Faites la Différence"
   content: "Tous nos véhicules 2 roues électriques sont sélectionnés sur un rapport de qualité, poids, puissance et autonomie des plus rigoureuses. Ceci afin de répondre à un type personnel de déplacement tant en milieu urbain qu’extra-urbain. Ainsi, il en est fini des embouteillages et du stress des véhicules thermiques polluants et onéreux. Voilà de quoi réaliser une économie réelle et significative. Un plaisir de conduite silencieuse et confortable.!" 
   #image: "images/trot.png"
   image: "images/home-1.png"
@@ -57,7 +57,7 @@ promo:
   enable: true
   # image: "images/test.mp4"
   video: "images/test.mp4"
-  title: " La Viper 2 Ou Nami Burn-E 2 Max Conçues Par Des Professionnels, A Vos Marques, Prêts ? Allez-Y ! " 
+  title: " La Viper 3 Ou Nami Burn-E 3 Max Conçues Par Des Professionnels, A Vos Marques, Prêts ? Allez-Y ! " 
   content:
     "Pour vous garantir la sécurité, le système de pliage de la trottinette électrique a été repensé. Son profil conique, breveté renforce sa solidité en épousant parfaitement.  
     <br><br>
