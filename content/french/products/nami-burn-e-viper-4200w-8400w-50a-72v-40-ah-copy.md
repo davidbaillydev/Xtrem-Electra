@@ -6,7 +6,7 @@ description = "Financement ALMA en 3X ou 4X"
 discount_price = ""
 images = ["/uploads/nami-1-1.png", "/uploads/nami-1.png", "/uploads/nami-4.png", "/uploads/nami-5.png", "/uploads/blast-1.jpg", "/uploads/blast-2.jpg", "/uploads/blast-3.jpg"]
 price = "3795 T.T.C."
-title = "Nami Blast Max 60V  35AH "
+title = "Nami Blast Max 60V  40AH "
 
 +++
 Nous étions nombreux à attendre les derniers modèles de la marque Nami Electric, voilà alors la Nami Blast ! La TEAM XTREMELECTRA est heureuse de vous proposer ce nouveau modèle innovant.
