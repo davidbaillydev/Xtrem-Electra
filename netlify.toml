@@ -9,9 +9,6 @@
   # HUGO_THEME = "repo"
   HUGO_BASEURL = "/"
 
-  [[plugins]]
-package = "netlify-plugin-image-optim"
-
 
 
 # [build]
