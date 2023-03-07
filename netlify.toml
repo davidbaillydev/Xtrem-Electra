@@ -10,6 +10,7 @@
   HUGO_BASEURL = "/"
 
 
+
 # [build]
 #   publish = "public"
 #   command = " cd exampleSite && hugo --minify --gc"
