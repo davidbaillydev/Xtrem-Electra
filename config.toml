@@ -7,7 +7,7 @@ languageCode = "fr-fr"
 # post excert
 summarylength = "20"
 # google analytics
-googleAnalytics = "" # Ex: UA-123-45
+googleAnalytics = "" # Ex: UA-123-45 
 # disable language
 disableLanguages = ['En'] # disable language from here
 
