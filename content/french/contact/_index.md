@@ -5,7 +5,7 @@ office:
   title: XTREM-ELECTRA
   mobile: 07 85 55 55 72
   email: 'xtremelectra@gmail.com '
-  location: '5 Rue de la Croix Blanche, 31700 Blagnac,Toulouse'
+  location: '5 Rue de la Croix Blanche, 31700 Blagnac,Toulouse.'
   social: xtremelectra_france
   net: xtremelectra france
   play: xtremelectra
@@ -23,4 +23,5 @@ opennig_hour:
     - 'Samedi: 14h30 - 19h30'
     - 'Dimanche: Fermé'
 ---
+
 
