@@ -1,0 +1,48 @@
+---
+label: contact
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: field_group
+  name: office
+  label: office
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: mobile
+    label: mobile
+  - type: text
+    name: email
+    label: email
+  - type: text
+    name: location
+    label: location
+  - type: text
+    name: social
+    label: social
+  - type: text
+    name: net
+    label: net
+  - type: text
+    name: play
+    label: play
+  - type: textarea
+    name: content
+    label: content
+- type: field_group
+  name: opennig_hour
+  label: opennig_hour
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: list
+    name: day_time
+    label: day_time
