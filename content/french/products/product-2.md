@@ -8,8 +8,8 @@ images:
   - images/showcase/kugo/4.jpg
   - images/showcase/kugo/5.jpg
 description: Financement ALMA en 3X ou 4X"
-price: €880.00
-discount_price: €795 Promo T.T.C.
+price: '880.00'
+discount_price: 795 Promo T.T.C.
 colors:
   - Noir
   - Blanc
