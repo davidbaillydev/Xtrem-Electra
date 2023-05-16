@@ -5,11 +5,17 @@
     <div class="row">
       <div class="col-md-5 mb-4 mb-md-0">
         <!-- product image slider -->
-        <div class="product-image-slider">
+        <div class="product-image-slider gallery-item ">
           {{ range .Params.images }}
-          <div data-image="{{ . | absURL }}">
+          <!-- <div data-image="{{ . | absURL }}" >
             <img class="img-fluid w-100" src="{{ . | absURL }}" alt="product-image">
-          </div>
+          </div> -->
+          <a href="{{ . | absURL }}" data-image="{{ . | absURL }}"
+          title="Catalogue">
+     
+          <img class ="img-fluid w-100" src="{{ . | absURL }}" alt="product-image">
+
+      </a>
           {{ end }}
         </div>
       </div>
