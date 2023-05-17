@@ -381,10 +381,16 @@ export default defineConfig({
 
           {
             type: 'image',
-            label: 'featureImage',
-            name: 'featureImage',
-            list: true,
+            label: 'image',
+            name: 'image',
+          
           },
+          // {
+          //   type: 'image',
+          //   label: 'featureImage',
+          //   name: 'featureImage',
+          //   list: true,
+          // },
 
 
           {
