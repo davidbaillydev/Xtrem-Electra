@@ -1,5 +1,5 @@
 import type { TinaField } from "tinacms";
-export function v_lo__lectriqueFields() {
+export function frenchFields() {
   return [
     {
       type: "string",
