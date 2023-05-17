@@ -386,6 +386,14 @@ export default defineConfig({
             list: true,
           },
 
+           // Champ image pour le diaporama
+          {
+            type: 'image',
+            label: 'Slideshow Images',
+            name: 'images',
+            list: true,
+          },
+
 
           {
             type: 'string',
