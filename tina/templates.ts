@@ -30,7 +30,7 @@ export function frenchFields() {
     {
       type: "image",
       label: "featureImage",
-      name: "featureImage",
+      name: "images",
       list: true,
     },
     {
