@@ -379,18 +379,10 @@ export default defineConfig({
           },
 
 
-          // {
-          //   type: 'image',
-          //   label: 'featureImage',
-          //   name: 'featureImage',
-          //   list: true,
-          // },
-
-           // Champ image pour le diaporama
           {
             type: 'image',
-            label: 'Slideshow Images',
-            name: 'images',
+            label: 'featureImage',
+            name: 'featureImage',
             list: true,
           },
 
