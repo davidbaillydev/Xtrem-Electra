@@ -19,4 +19,4 @@ Prix spécial Noël🎁🎄, super vélo électrique performant de très bonne q
 
 ( PAIEMENTS PAR CRÉDIT ALMA EN X3 ou X4 ) EN BOUTIQUE OU PAR MAIL
 
-![](/uploads/sans-titre-6.png)![](/uploads/im5.webp)
+![](/uploads/sans-titre-6.png)
