@@ -1,5 +1,5 @@
 import { defineSchema, defineConfig } from 'tinacms';
-import { frenchFields} from "./templates";
+import { frenchFields } from "./templates";
 
 
 import { Field } from 'tinacms';
