@@ -405,7 +405,7 @@ export default defineConfig({
                 name: 'include',
               },
             ],
-          }
+          },
 
 
           {
