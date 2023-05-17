@@ -1,6 +1,6 @@
 ---
 title: Nami Burn-E 3 Max 8400W 72V 40AH
-date: 2019-10-16T22:00:00.000Z
+date: 2019-10-17T05:02:00.000Z
 images:
   - images/showcase/nami/img1.png
   - images/showcase/nami/img2.png
