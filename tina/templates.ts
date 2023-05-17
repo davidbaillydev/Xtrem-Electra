@@ -31,7 +31,7 @@ export function frenchFields() {
       type: "image",
       label: "featureImage",
       name: "featureImage",
-      list: true,
+  
     },
     {
       type: "string",
