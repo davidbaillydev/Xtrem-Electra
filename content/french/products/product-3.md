@@ -1,13 +1,13 @@
 ---
-draft: true
+draft: false
 title: Vélo électrique ⚡️
 date: 2023-05-16T22:00:00.000Z
-description: "Financement Alma en 3X ou 4X"
+description: Financement Alma en 3X ou 4X
 featureImage:
   - /uploads/im4.webp
   - /uploads/im2.webp
 price: €995 T.T.C.
-discount_price: "€1250"
+discount_price: €1250
 colors:
   - Noir
 button_link: '#'
