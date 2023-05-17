@@ -28,9 +28,10 @@ export function frenchFields() {
       label: "discount_price",
     },
     {
-      type: "string",
+      type: "image",
       label: "featureImage",
       name: "featureImage",
+      list: true,
   
     },
     {

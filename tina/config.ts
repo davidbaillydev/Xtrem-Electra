@@ -381,7 +381,7 @@ export default defineConfig({
 
          
           {
-            type: 'string',
+            type: 'image',
             label: 'featureImage',
             name: 'featureImage',
             list: true,
