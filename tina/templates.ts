@@ -27,12 +27,12 @@ export function frenchFields() {
       name: "discount_price",
       label: "discount_price",
     },
-    {
-      type: "image",
-      label: "featureImage",
-      name: "featureImage",
+    // {
+    //   type: "image",
+    //   label: "featureImage",
+    //   name: "featureImage",
   
-    },
+    // },
     {
       type: "string",
       name: "price",

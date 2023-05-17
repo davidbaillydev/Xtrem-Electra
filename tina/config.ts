@@ -379,10 +379,11 @@ export default defineConfig({
           },
 
 
-          {
+            {
             type: 'image',
-            label: 'image',
-            name: 'image',
+            label: 'images',
+            name: 'images',
+            list: true,
           
           },
           // {
