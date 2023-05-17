@@ -29,8 +29,8 @@ export function v_lo__lectriqueFields() {
     },
     {
       type: "image",
-      name: "images",
-      label: "images",
+      label: "featureImage",
+      name: "featureImage",
       list: true,
     },
     {
