@@ -1,16 +1,6 @@
 import { defineSchema, defineConfig } from 'tinacms';
 import { frenchFields } from "./templates";
 
-
-import { Field } from 'tinacms';
-
-interface GroupConfig {
-  name: string
-  component: 'group'
-  label?: string
-  fields: Field[]
-}
-
 // Your hosting provider likely exposes this as an environment variable
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "master";
 
