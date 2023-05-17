@@ -1,11 +1,16 @@
 import type { TinaField } from "tinacms";
 export function v_lo__lectriqueFields() {
   return [
-
     {
       type: "string",
-      name: "title",
-      label: "title",
+      name: "button_link",
+      label: "button_link",
+    },
+    {
+      type: "string",
+      name: "colors",
+      label: "colors",
+      list: true,
     },
     {
       type: "datetime",
@@ -14,53 +19,29 @@ export function v_lo__lectriqueFields() {
     },
     {
       type: "string",
-      name: "subtitle",
-      label: "subtitle",
-      ui: {
-        component: "textarea",
-      },
+      name: "description",
+      label: "description",
     },
-    // {
-    //   type: "string",
-    //   name: "button_link",
-    //   label: "button_link",
-    // },
-    // {
-    //   type: "string",
-    //   name: "colors",
-    //   label: "colors",
-    //   list: true,
-    // },
-    // {
-    //   type: "datetime",
-    //   name: "date",
-    //   label: "date",
-    // },
-    // {
-    //   type: "string",
-    //   name: "description",
-    //   label: "description",
-    // },
-    // {
-    //   type: "string",
-    //   name: "discount_price",
-    //   label: "discount_price",
-    // },
-    // {
-    //   type: "image",
-    //   name: "images",
-    //   label: "images",
-    //   list: true,
-    // },
-    // {
-    //   type: "string",
-    //   name: "price",
-    //   label: "price",
-    // },
-    // {
-    //   type: "string",
-    //   name: "title",
-    //   label: "title",
-    // },
+    {
+      type: "string",
+      name: "discount_price",
+      label: "discount_price",
+    },
+    {
+      type: "image",
+      name: "images",
+      label: "images",
+      list: true,
+    },
+    {
+      type: "string",
+      name: "price",
+      label: "price",
+    },
+    {
+      type: "string",
+      name: "title",
+      label: "title",
+    },
   ] as TinaField[];
 }
