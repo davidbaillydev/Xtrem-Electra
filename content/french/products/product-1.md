@@ -1,21 +1,21 @@
 ---
 title: Nami Burn-E 3 Max 8400W 72V 40AH
-date: 2019-10-17T05:42:16.000+00:00
+date: 2019-10-15T22:00:00.000Z
 images:
-- images/showcase/nami/img1.png
-- images/showcase/nami/img2.png
-- images/showcase/nami/img3.png
-- images/showcase/nami/img4.png
-- images/showcase/nami/img5.png
-- images/showcase/nami/img6.png
+  - images/showcase/nami/img1.png
+  - images/showcase/nami/img2.png
+  - images/showcase/nami/img3.png
+  - images/showcase/nami/img4.png
+  - images/showcase/nami/img5.png
+  - images/showcase/nami/img6.png
 description: Financement ALMA en 3X ou 4X"
 price: '5,450.00'
-discount_price: 4,950.00 T.T.C.
+discount_price: '4,950.00 T.T.C.'
 colors:
-- Noir
-button_link: "#"
-
+  - Noir
+button_link: '#'
 ---
+
 XTREM-ELECTRA présente la toute dernière génération de trottinette électrique Nami Burn-E 3 Max dotée de 2 moteurs d’une puissance de 4200W en crête, soit une puissance combinée de 8400W en pic.
 
 2 contrôleurs sin wave (onde sinusoïdale) de 50A / 72V viennent contrôler le tout.
@@ -46,7 +46,7 @@ Bonnes vibrations et plaisirs de conduites à tous les pilotes NAMI….
 
 Puissante et autonome, la Nami Burn E 2 Max est la trottinette électrique du moment. Parfaite pour des trajets de longue durée sur tous types de chemins, vous ne pourrez plus vous en passer.
 
-* **DESCRIPTION **
+* \*\*DESCRIPTION \*\*
 
   \- les nouvelles LED pour + de visibilité
   * le nouveau guidon, plus long pour + de stabilité
