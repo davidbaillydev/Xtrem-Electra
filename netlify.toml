@@ -3,9 +3,9 @@
 #   publish = "public"
 #   command = "hugo --minify --gc"
 
-# [build]
-#   publish = "public"
-#   command = "yarn tinacms build && hugo"
+[build]
+  publish = "public"
+  command = "yarn tinacms build && hugo"
 
 
   
