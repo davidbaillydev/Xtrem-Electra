@@ -379,32 +379,11 @@ export default defineConfig({
           },
 
 
-          // {
-          //   type: 'image',
-          //   label: 'featureImage',
-          //   name: 'featureImage',
-          //   list: true,
-          //   clearable : true, // Permet à l'utilisateur de supprimer une image sélectionnée
-          //   multiple: true, // Permet à l'utilisateur de sélectionner plusieurs images à la fois
-          // },
-
           {
-            type: 'group',
-            label: 'Feature Images',
-            name: 'featureImages',
+            type: 'image',
+            label: 'featureImage',
+            name: 'featureImage',
             list: true,
-            fields: [
-              {
-                type: 'image',
-                label: 'Image',
-                name: 'image',
-              },
-              {
-                type: 'boolean',
-                label: 'Include',
-                name: 'include',
-              },
-            ],
           },
 
 
