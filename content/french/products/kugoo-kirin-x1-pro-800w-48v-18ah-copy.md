@@ -4,7 +4,7 @@ colors = []
 date = 2019-10-17T05:01:00Z
 description = "Financement Alma en 3X ou 4X"
 discount_price = "995 T.T.C."
-images = ["/uploads/v1.png", "/uploads/v1.png", "/uploads/v2.png", "/uploads/v3.png", "/uploads/v4.png", "/uploads/v5.png"]
+images = ["/uploads/v1.png", "/uploads/v6.png", "/uploads/v7.png", "/uploads/v8.png", "/uploads/v9.png","/uploads/v2.png", "/uploads/v3.png", "/uploads/v4.png", "/uploads/v5.png"]
 price = "1250€"
 title = "Vélo électrique ⚡️"
 
