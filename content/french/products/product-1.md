@@ -9,8 +9,8 @@ images:
   - images/showcase/nami/img5.png
   - images/showcase/nami/img6.png
 description: Financement ALMA en 3X ou 4X"
-price: '5,450.00'
-discount_price: '4,950.00 T.T.C.'
+price: '5395 T.T.C' 
+# discount_price: '4,950.00 T.T.C.'
 colors:
   - Noir
 button_link: '#'
