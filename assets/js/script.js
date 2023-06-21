@@ -3,6 +3,15 @@ $(window).on('load', function () {
   $('.preloader').fadeOut(100);
 });
 
+document.addEventListener('DOMContentLoaded', function() {
+  var closeButton = document.querySelector('.close-button');
+  var alertBanner = document.querySelector('.alert-banner');
+
+  closeButton.addEventListener('click', function() {
+    alertBanner.style.display = 'none';
+  });
+});
+
 (function ($) {
   'use strict';
 
