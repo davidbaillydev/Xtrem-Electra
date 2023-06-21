@@ -6,7 +6,7 @@ description = "Financement ALMA en 3X ou 4X"
 discount_price = ""
 images = ["/uploads/climat.png", "/uploads/climar-1.png", "/uploads/climat-2.png"]
 price = "2595 T.T.C."
-title = " Nami Klima 60V 20AH"
+title = " Nami Klima 60V 25AH"
 
 +++
 ### Essai et livraison courant 1er trimestre  2023
