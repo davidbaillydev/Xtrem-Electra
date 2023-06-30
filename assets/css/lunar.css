@@ -325,6 +325,10 @@ THE SOFTWARE.
 .bg-rhino {
   background-color: #28304e !important;
 }
+.bg-modal {
+
+  background-color: #e6e6e6 !important;
+}
 
 .btn-cstm-light {
   color: #212841;
