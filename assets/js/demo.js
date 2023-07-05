@@ -3,7 +3,7 @@
 
 setTimeout(function () {
     $(".modal:not(.auto-off)").modal("show");
-},10000);
+},1000); // gestion en seconde pour popup 
 
 (function($) {
     //For demo purpose adding positions to modal for preview
